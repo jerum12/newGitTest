@@ -21,3 +21,6 @@ point.setx(10);
 point.draw();
 
 //JPG test 
+
+
+//test1
