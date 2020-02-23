@@ -19,3 +19,5 @@ let x = point.getx();
 //point.x = 10;
 point.setx(10);
 point.draw();
+
+//JPG test 
